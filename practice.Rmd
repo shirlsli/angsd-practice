@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Shirley Li"
 author: "Author"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
@@ -12,7 +12,7 @@ output:
     toc_float: true
 ---
 
-# Purpose
+# I like pineapple on pizza!
 This document is an example RMarkdown to be edited and rerendered as an exercise. 
 It gives examples of some good practices, like using a dynamically rendered date, 
 advanced HTML options, informative headers, setting a random seed, and capturing
